@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esmer\\OneDrive\\Documentos\\structs\\Estructura de datos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675D046B-6B45-45AA-8C07-49E0592AF948}|Estructura de datos\\Estructura de datos.csproj|c:\\users\\esmer\\onedrive\\documentos\\structs\\estructura de datos\\estructura de datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{675D046B-6B45-45AA-8C07-49E0592AF948}|Estructura de datos\\Estructura de datos.csproj|solutionrelative:estructura de datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esmer\\OneDrive\\Documentos\\structs\\Estructura de datos\\Estructura de datos\\Form1.cs",
+              "RelativeDocumentMoniker": "Estructura de datos\\Form1.cs",
+              "ToolTip": "C:\\Users\\esmer\\OneDrive\\Documentos\\structs\\Estructura de datos\\Estructura de datos\\Form1.cs [Design]",
+              "RelativeToolTip": "Estructura de datos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:19:17.548Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
